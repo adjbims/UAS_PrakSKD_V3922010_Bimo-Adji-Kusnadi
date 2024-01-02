@@ -70,7 +70,7 @@ function App() {
         {/* DESCRIPTION  */}
         <div className="description">
           <h1>UAS PRAKTIK SKD</h1>
-          <h3>Audrey Surya Nanditama Hernanto - V3922008</h3>
+          <h3>Bimo Adji Kusnadi - V3922010</h3>
         </div>
         {/* BUTTONS - Fetch and Set */}
         <div className="custom-buttons">
